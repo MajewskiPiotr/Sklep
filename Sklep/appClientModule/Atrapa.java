@@ -11,6 +11,8 @@ public class Atrapa {
 	public Atrapa(){
 		
 		System.out.println("test");
+		System.out.println("test3");
+		
 		ProduktService service = new ProduktService();
 		KlientService klientService = new KlientService();
 		Dao daoService = new Dao();
