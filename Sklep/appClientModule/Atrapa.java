@@ -9,6 +9,8 @@ import appClientModule.typy.TypProduktu;
 public class Atrapa {
 	
 	public Atrapa(){
+		
+		System.out.println("test");
 		ProduktService service = new ProduktService();
 		KlientService klientService = new KlientService();
 		Dao daoService = new Dao();
