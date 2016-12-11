@@ -12,6 +12,8 @@ public class Atrapa {
 		
 		System.out.println("test");
 		System.out.println("test3");
+		System.out.println("test");
+
 		
 		ProduktService service = new ProduktService();
 		KlientService klientService = new KlientService();
